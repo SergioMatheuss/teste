@@ -47,11 +47,7 @@
                          Montese · rua dos prazeres 666 · (85)8790707070, se não der certo, 70 dnv. ø
                         <a href="mailto:name@email.com">shaolinmatadordeporco@gmail.com</a>
                     </div>
-                    <p class="lead mb-5">Eu tenho experiência em não fazer nada bem. Altamente mais ou menos. TORCEDOR DA JGT.ah... vamos acabar com o ceara
-                        eh... vamos botar e pra fuder
-                        ih... nos vamos e destruir
-                        oh...essa tal de cearamor
-                        uh... despena o urubu</p>
+                    <p class="lead mb-5">Eu tenho experiência em não fazer nada bem. Altamente mais ou menos.</p>
                     <div class="social-icons">
                         <a class="social-icon" href="#!"><i class="fab fa-linkedin-in"></i></a>
                         <a class="social-icon" href="#!"><i class="fab fa-github"></i></a>
@@ -227,7 +223,7 @@
                             <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
                             3
                             <sup>rd</sup>
-                            Lugar - Desafio dominando o fap.
+                            Lugar - Como vender curso online.
                         </li>
                     </ul>
                 </div>
